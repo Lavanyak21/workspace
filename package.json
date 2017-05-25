@@ -1,0 +1,28 @@
+{
+  "name": "stintin",
+  "version": "1.0.0",
+  "description": "Time Logger",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lavanyak21/workspace.git"
+  },
+  "author": "coreInnovation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lavanyak21/workspace/issues"
+  },
+  "homepage": "https://github.com/Lavanyak21/workspace#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "webpack": "^2.6.0",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "devDependencies": {
+    "node-static": "^0.7.9"
+  }
+}
